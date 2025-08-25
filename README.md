@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Okorie Christian</h1>
-<h3 align="center">A passionate frontend developer from India🚀Software Engineer Transforming 🧠 ideas into 👨🏿‍💻code.</h3>
+<h3 align="center">A passionate Software developer from Nigeria <br/>
+  🚀Software Engineer Transforming 🧠 ideas into 👨🏿‍💻code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisokoriedev&label=Profile%20views&color=0e75b6&style=flat" alt="chrisokoriedev" /> </p>
 
