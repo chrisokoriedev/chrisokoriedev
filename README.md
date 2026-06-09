@@ -30,7 +30,7 @@
 ## 🛠️ Tech Stack & Tools
 
 ### 📱 Frontend & Mobile Development
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo" />
@@ -45,7 +45,7 @@
 <br>
 
 ### ⚙️ Backend & Databases
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
@@ -62,7 +62,7 @@
 <br>
 
 ### ☁️ Cloud & Dev Tools
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="gcp logo" />
@@ -101,17 +101,7 @@
 
 ---
 
-## 🤝 Connect with Me
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chrisokoriedev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chrisokoriedev)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/chrisokoriedev)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/chrisokoriedev)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/chrisokoriedev)
-
-</div>
 
 ---
 
