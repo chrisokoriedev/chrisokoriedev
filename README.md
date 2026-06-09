@@ -29,56 +29,22 @@
 
 ## 🛠️ Tech Stack & Tools
 
-### 📱 Frontend & Mobile Development
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
-</div>
-
-<br>
-
-### ⚙️ Backend & Databases
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo" />
-</div>
-
-<br>
-
-### ☁️ Cloud & Dev Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="gcp logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="android studio logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=apple" height="60" alt="apple ios logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo" />
-</div>
+<table width="100%">
+  <tr>
+    <td valign="top" width="33%">
+      <h3>📱 Frontend & Mobile</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,dart,ts,nextjs,tailwind" /></a>
+    </td>
+    <td valign="top" width="33%">
+      <h3>⚙️ Backend & DB</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sqlite,prisma,supabase" /></a>
+    </td>
+    <td valign="top" width="34%">
+      <h3>☁️ Cloud & Dev Tools</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=firebase,gcp,vercel,androidstudio,apple,postman,vscode,figma" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -98,10 +64,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chrisokoriedev/chrisokoriedev/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
----
-
-
 
 ---
 
