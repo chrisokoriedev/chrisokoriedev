@@ -52,7 +52,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisokoriedev&theme=radical&hide_border=true" alt="chrisokoriedev streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisokoriedev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
