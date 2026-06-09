@@ -30,7 +30,7 @@
 ## 🛠️ Tech Stack & Tools
 
 ### 📱 Frontend & Mobile Development
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo" />
@@ -45,7 +45,7 @@
 <br>
 
 ### ⚙️ Backend & Databases
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
