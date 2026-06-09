@@ -30,7 +30,7 @@
 ## 🛠️ Tech Stack & Tools
 
 ### 📱 Frontend & Mobile Development
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo" />
@@ -45,29 +45,58 @@
 <br>
 
 ### ⚙️ Backend & Databases
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo" />
 </div>
 
 <br>
 
-### ☁️ Cloud & Architecture
+### ☁️ Cloud & Dev Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="gcp logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="android studio logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=apple" height="60" alt="apple ios logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo" />
+</div>
+
+---
+
+## 📊 Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisokoriedev&theme=radical&hide_border=true" alt="chrisokoriedev streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisokoriedev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chrisokoriedev/chrisokoriedev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chrisokoriedev/chrisokoriedev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chrisokoriedev/chrisokoriedev/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
