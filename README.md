@@ -57,21 +57,15 @@
 
 ---
 
-## 🌟 GitHub Trophies
+## 🌟 The Ninja Way
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chrisokoriedev&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="chrisokoriedev trophies" />
+  <img src="https://media.giphy.com/media/wlor02Hk0L0z6/giphy.gif" alt="Naruto Rasengan" width="800" style="border-radius: 10px;" />
 </div>
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrisokoriedev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisokoriedev&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<br>
+## 📊 Activity
 
 <div align="center">
   <picture>
