@@ -17,7 +17,7 @@
 - 💼 **Portfolio:** [chrisdevokorie.unaux.com](http://chrisdevokorie.unaux.com/)
 - 💬 **Ask me about:** Flutter, Next.js, Express.js, PostgreSQL, Supabase, and cross-platform architecture.
 - 📫 **Reach me:** okoriec01@gmail.com
-- ⚡ **Fun fact:** My *nindō* (ninja way) is turning complex, multi-tenant problems into simple, elegant solutions! Believe it! 🦊
+
 
 ## 🛠️ Tech Stack & Tools
 <table width="100%">
@@ -46,8 +46,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chrisokoriedev/chrisokoriedev/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chrisokoriedev/chrisokoriedev/output/github-contribution-grid-snake.svg">
 </picture>
-
-<img src="https://media.giphy.com/media/4PtDcb0Z7S87K/giphy.gif" width="350">
 
 ### ✨ "A smile is the best way to get yourself out of a tight spot." - Masashi Kishimoto ✨
 
