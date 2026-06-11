@@ -3,9 +3,7 @@
 # Hi 👋, I'm Okorie Christian 🍥
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Senior+Flutter+Developer+%F0%9F%9A%80;Full-Stack+Engineer+(Next.js+%2B+Node)%E2%9A%A1;My+Nindo+is+Clean+Code+%F0%9F%A5%B7;Transforming+Ideas+into+Reality+%E2%9C%A8" alt="Typing SVG" />
-
 ### A passionate Full-Stack Flutter Developer from Nigeria 🇳🇬
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chrisokoriedev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="chrisokoriedev" />
   <img src="https://img.shields.io/github/followers/chrisokoriedev?label=Followers&style=for-the-badge&color=blue" alt="followers" />
