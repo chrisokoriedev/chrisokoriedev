@@ -18,7 +18,6 @@
 - 💬 **Ask me about:** Flutter, Next.js, Express.js, PostgreSQL, Supabase, and cross-platform architecture.
 - 📫 **Reach me:** okoriec01@gmail.com
 
-
 ## 🛠️ Tech Stack & Tools
 <table width="100%">
   <tr>
@@ -36,21 +35,4 @@
     </td>
   </tr>
 </table>
-
-## 📊 Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisokoriedev&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chrisokoriedev/chrisokoriedev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chrisokoriedev/chrisokoriedev/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/chrisokoriedev/chrisokoriedev/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-### ✨ "A smile is the best way to get yourself out of a tight spot." - Masashi Kishimoto ✨
-
 </div>
