@@ -10,8 +10,6 @@
 
 ## 🚀 About Me
 - 🏗️ **Currently building & shipping:** Prisma-backed architectures and integrating AI agents into production-ready software.
-- 📱 **Mobile Expertise:** End-to-end delivery with Flutter, Riverpod 3.0+, and Clean Architecture.
-- 🌐 **Web Expertise:** Full-stack development with Next.js, Express.js, PostgreSQL, and Supabase.
 - 💻 **Recent work:** Architecting full-stack inventory management platforms and real-time social applications.
 - 📫 **Reach me:** okoriec01@gmail.com
 - ⌨️ **Terminal:** `npx chrisokoriedev`
