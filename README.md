@@ -2,8 +2,6 @@
 
 # Hi 👋, I'm Okorie Christian 🍥
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Senior+Flutter+Developer+%F0%9F%9A%80;Full-Stack+Engineer+(Next.js+%2B+Node)%E2%9A%A1;My+Nindo+is+Clean+Code+%F0%9F%A5%B7;Transforming+Ideas+into+Reality+%E2%9C%A8" alt="Typing SVG" />
-
 ### A passionate Full-Stack Flutter Developer from Nigeria 🇳🇬
 
 <img src="https://komarev.com/ghpvc/?username=chrisokoriedev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="chrisokoriedev" />
@@ -11,12 +9,13 @@
 </div>
 
 ## 🚀 About Me
-- 🌱 **Currently building & mastering:** Next.js, Prisma, and integrating AI agent systems into functional software.
-- 🛠️ **Expertise:** End-to-end mobile delivery with Flutter, Riverpod 3.0+, and Clean Architecture.
+- 🏗️ **Currently building & shipping:** Prisma-backed architectures and integrating AI agents into production-ready software.
+- 📱 **Mobile Expertise:** End-to-end delivery with Flutter, Riverpod 3.0+, and Clean Architecture.
+- 🌐 **Web Expertise:** Full-stack development with Next.js, Express.js, PostgreSQL, and Supabase.
 - 💻 **Recent work:** Architecting full-stack inventory management platforms and real-time social applications.
-- 💼 **Portfolio:** [chrisdevokorie.unaux.com](http://chrisdevokorie.unaux.com/)
-- 💬 **Ask me about:** Flutter, Next.js, Express.js, PostgreSQL, Supabase, and cross-platform architecture.
 - 📫 **Reach me:** okoriec01@gmail.com
+- ⌨️ **Terminal:** `npx chrisokoriedev`
+
 
 ## 🛠️ Tech Stack & Tools
 <table width="100%">
